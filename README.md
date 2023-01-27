@@ -1,4 +1,1 @@
-## hamburger menu
-
-
-https://loczylevi.github.io/szinusz_matek_projekt/
+https://loczylevi.github.io/winter_sport_project/
